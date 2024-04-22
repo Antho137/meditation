@@ -18,6 +18,11 @@
 - Bootatrap 4
 - JavaScript
 
+## Links
+
+- Solution URL: https://github.com/Antho137/meditation
+- Live Site URL: https://antho137.github.io/meditation/
+
 ## What I learned
 
 I learn more about Math.random()
