@@ -15,7 +15,7 @@
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- Bootatrap 4
+- Bootstrap 4
 - JavaScript
 
 ## Links
